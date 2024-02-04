@@ -1,0 +1,14 @@
+Location,Bedrooms,Area,Price
+Suburb,3,1500,300000
+Urban,2,1200,250000
+Rural,4,2000,400000
+Urban,,1800,320000
+Suburb,4,2200,420000
+Rural,2,,230000
+Urban,3,1600,280000
+Suburb,4,2000,380000
+Rural,5,2500,500000
+Urban,2,1300,270000
+Suburb,3,1700,350000
+Rural,4,2100,420000
+
